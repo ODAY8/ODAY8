@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdirahman Warsame</h1>
-<h3 align="center">A passionate frontend developer from somlia</h3>
+<h3 align="center">A passionate frontend and backend developer from somalia</h3>
 
 - 🌱 I’m currently learning **flutter, data analytics**
+
+- 👨‍💻 All of my projects are available at [https://store-f3503.web.app](https://store-f3503.web.app)
 
 - 💬 Ask me about **flutter, dart , communication**
 

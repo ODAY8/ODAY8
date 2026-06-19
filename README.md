@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/hirad-alagha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:zapiryre@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://store-f3503.web.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/ODAY8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -122,8 +122,8 @@ Cross-platform mobile apps with Flutter / Dart
 ## GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&hide_title=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ODAY8&show_icons=true&theme=default&hide_border=true&hide_title=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ODAY8&layout=compact&theme=default&hide_border=true&hide_title=true"/>
 </div>
 
 <br/>

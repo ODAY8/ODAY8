@@ -17,7 +17,7 @@
 
 ## Profile
 
-Undergraduate student from Somalia, pursuing a **B.Tech in Computer Science and Communication Engineering** at **KIIT University, India**. Focused on building practical skills across AI automation, mobile development, and incident response — working toward a career at the intersection of intelligent systems and security.
+ pursuing a **B.Tech in Computer Science and Communication Engineering*. Focused on building practical skills across AI automation, mobile development, and incident response — working toward a career at the intersection of intelligent systems and security.
 
 <table>
 <tr>

@@ -33,8 +33,6 @@ AI Automation — intelligent agents and automated workflows
 </td>
 <td width="50%" valign="top">
 
-**🛡️ Security Track**
-Incident Response — detection, investigation, response operations
 
 **📱 Also Building**
 Cross-platform mobile apps with Flutter / Dart

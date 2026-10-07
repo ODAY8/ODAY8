@@ -86,7 +86,7 @@ An AI-powered computer-vision monitoring system designed to detect events from v
 
 **Stack:** `Python` `FastAPI` `Google Gemini` `Groq` `OpenCV` `TypeScript`
 
-🔗 **Repository:** https://github.com/ODAY8/edgepilot-ai
+🔗 **live:** https://edgepilot-ai-wk15.vercel.app/
 
 ---
 

@@ -252,10 +252,6 @@ I'm currently building deeper expertise in:
 
 <div align="center">
 
-<a href="https://mohamedabdirahman.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-mohamedabdirahman.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/mohamed-abdirahman-warsame/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

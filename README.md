@@ -34,7 +34,7 @@ Based in India, studying at **KIIT University**. Working toward becoming an **AI
 | Project | What it does | Built with | Links |
 |:--------|:-------------|:-----------|:------|
 | **EdgePilot AI** | Browser-based safety-monitoring prototype. Samples webcam frames or uploads, uses Gemini Vision to detect safety events, scores risk with a deterministic rules engine, and uses Groq to write operator explanations and actions. Built at the AI Infra Summit Hackathon 2026. | `Python` `FastAPI` `Gemini` `Groq` `React` `TypeScript` | [Demo](https://edgepilot-ai-wk15.vercel.app/) · [Code](https://github.com/ODAY8/edgepilot-ai) |
-| **FoodRescue** | Full-stack platform connecting surplus-food donors with NGOs and shelters. AI-assisted expiry prediction and image recognition, QR-verified handover, inventory management, scheduled donations, and an English/Hindi interface. | `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Groq` | [Live](https://www.foodrescue.cfd/) · [Code](https://github.com/ODAY8/Food-Rescue-Donation-Platform) |
+| **FoodRescue** | Full-stack platform connecting surplus-food donors with NGOs and shelters. AI-assisted expiry prediction and image recognition, QR-verified handover, inventory management, scheduled donations, and an English/Hindi interface. | `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Groq` | [Live Demo](https://www.foodrescue.cfd/) · [Code](https://github.com/ODAY8/Food-Rescue-Donation-Platform) |
 <!-- TODO: add EverKeep, HandOver, FoodRescue rows after each repo is verified -->
 
 <img src="assets/divider.svg" alt="" width="100%">

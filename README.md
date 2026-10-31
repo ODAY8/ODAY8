@@ -45,11 +45,7 @@ Based in India, studying at **KIIT University**. Working toward becoming an **AI
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## The numbers
 
-<img src="assets/stats.svg" alt="GitHub statistics: public repositories, stars earned, followers, and language split" width="100%">
-
-<sub>Generated daily from the GitHub API by Actions and committed to this repo.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%">
 

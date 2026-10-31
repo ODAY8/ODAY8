@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="Mohamed Abdirahman Warsame, AI-focused software engineer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#14303A"/></linearGradient>
+<linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#4FD1C5"/><stop offset="1" stop-color="#63B3ED"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#fff" stroke-opacity="0.04"/></pattern>
+</defs>
+<rect width="900" height="230" rx="16" fill="url(#bg)"/>
+<rect width="900" height="230" rx="16" fill="url(#grid)"/>
+<rect x="48" y="52" width="56" height="4" rx="2" fill="url(#ac)"/>
+<text x="48" y="104" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">Mohamed Abdirahman</text>
+<text x="48" y="146" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#4FD1C5">AI systems · Full-stack · Computer vision</text>
+<text x="48" y="182" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.65">Computer Science &amp; Communication Engineering student · KIIT University, India</text>
+<g fill="none" stroke="url(#ac)" stroke-width="2" opacity="0.55">
+<circle cx="770" cy="115" r="62"/><circle cx="770" cy="115" r="36"/><circle cx="770" cy="115" r="10" fill="#4FD1C5" stroke="none"/>
+<path d="M770 53V20M770 177V210M708 115H675M832 115H865" stroke-linecap="round"/>
+</g>
+</svg>

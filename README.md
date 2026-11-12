@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Mohamed Abdirahman Warsame, AI systems, full-stack, computer vision" width="100%">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-abdirahman-warsame/"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="40"></a>
   <a href="https://mohamedabdirahman.dev/"><img src="assets/social-portfolio.svg" alt="Portfolio" height="40"></a>
   <a href="https://github.com/ODAY8"><img src="assets/social-github.svg" alt="GitHub" height="40"></a>
   <a href="mailto:zapiryre@gmail.com"><img src="assets/social-email.svg" alt="Email" height="40"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ODAY8&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%">

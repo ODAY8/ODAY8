@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/header.svg" alt="Mohamed Abdirahman Warsame, AI systems, full-stack, computer vision" width="100%">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-abdirahman-warsame/"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="40"></a>
   <a href="https://mohamedabdirahman.dev/"><img src="assets/social-portfolio.svg" alt="Portfolio" height="40"></a>
   <a href="https://github.com/ODAY8"><img src="assets/social-github.svg" alt="GitHub" height="40"></a>
@@ -44,8 +48,6 @@ Based in India, studying at **KIIT University**. Working toward becoming an **AI
 <img src="assets/tech-marquee.svg" alt="Python, TypeScript, FastAPI, Flask, React, SQLite, Google Gemini, Groq" width="100%">
 
 <img src="assets/divider.svg" alt="" width="100%">
-
-
 
 <img src="assets/divider.svg" alt="" width="100%">
 

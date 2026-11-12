@@ -1,16 +1,24 @@
+<h1 align="center">Mohamed Abdirahman Warsame</h1>
+
+<h3 align="center">B.Tech Computer Science & Communication Engineering | AI Systems & Full-Stack Engineer</h3>
+
 <p align="center">
-  <img src="assets/header.svg" alt="Mohamed Abdirahman Warsame, AI systems, full-stack, computer vision" width="100%">
+  <b>Founder, HIRGAL</b> | Computer Vision & Security Tools | Python, TypeScript & React Developer
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-abdirahman-warsame/"><img src="assets/social-linkedin.svg" alt="LinkedIn" height="40"></a>
-  <a href="https://mohamedabdirahman.dev/"><img src="assets/social-portfolio.svg" alt="Portfolio" height="40"></a>
-  <a href="https://github.com/ODAY8"><img src="assets/social-github.svg" alt="GitHub" height="40"></a>
-  <a href="mailto:zapiryre@gmail.com"><img src="assets/social-email.svg" alt="Email" height="40"></a>
+  📍 India | Focus: AI Vision Pipelines, Agent Workflows & Secure Backends
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ODAY8&label=PROFILE%20VIEWS&color=0077b5&style=for-the-badge" alt="Profile views" height="40">
+  <a href="https://www.linkedin.com/in/mohamed-abdirahman-warsame/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:zapiryre@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mohamedabdirahman.dev/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"></a>
+  <a href="https://github.com/ODAY8"><img src="https://img.shields.io/badge/GITHUB-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ODAY8&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
 <img src="assets/divider.svg" alt="" width="100%">
@@ -33,7 +41,7 @@ Based in India, studying at **KIIT University**. Working toward becoming an **AI
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## Selected work
+## Featured Projects
 
 | Project | What it does | Built with | Links |
 |:--------|:-------------|:-----------|:------|
@@ -46,8 +54,6 @@ Based in India, studying at **KIIT University**. Working toward becoming an **AI
 ## Stack
 
 <img src="assets/tech-marquee.svg" alt="Python, TypeScript, FastAPI, Flask, React, SQLite, Google Gemini, Groq" width="100%">
-
-<img src="assets/divider.svg" alt="" width="100%">
 
 <img src="assets/divider.svg" alt="" width="100%">
 
